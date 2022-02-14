@@ -1,2 +1,2 @@
-#My Tutorials
+#MyTutorials
 This my Github tutorials.
