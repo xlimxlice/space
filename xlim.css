@@ -1,4 +1,4 @@
-a:link {color: brown;
+/* a:link {color: brown;
         background-color: transparent;
         text-decoration: underline;}
 
@@ -11,4 +11,22 @@ h1:link {color: blue;
             ;}
 
 body::content {text-align: justify;
-                background-color: aquamarine;}
+                background-color: aquamarine;} */
+
+body {
+        background-color: rgb(235, 213, 213);        
+}
+#moon {
+                text-align: left;
+        color: blue;
+}
+h1 {
+        text-align: center;
+        color: blue;
+}
+.center {
+        background-color: antiquewhite;
+}
+body {
+        background-image: url(xlim.jpg);
+}
