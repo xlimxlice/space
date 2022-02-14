@@ -1,0 +1,14 @@
+a:link {color: brown;
+        background-color: transparent;
+        text-decoration: underline;}
+
+a:hover {color: rgb(255, 255, 255);
+        background-color: brown;
+        text-decoration: double;}
+
+h1:link {color: blue;
+                text-align: center;
+            ;}
+
+body::content {text-align: justify;
+                background-color: aquamarine;}
